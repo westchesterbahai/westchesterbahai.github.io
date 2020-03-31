@@ -1,8 +1,8 @@
 ---
 title: How to Submit a Post
+layout: post
+permalink: /howto/
 ---
-
-# How to Submit and Edit Your Posts
 
 The technology for this website was chosen to make event posting as "self-serve" as
 possible, while allowing review of posted material and edits. You can sumbit posts
@@ -11,7 +11,7 @@ be more convenient to learn how to construct and submit posts yourself.
 
 Here's the steps for doing this.
 
-1. Get a free GitHub account
+## 1. Get a free GitHub account
 
 GitHub is a standalone, Microsoft-owned free code repository much beloved by
 many software developers. We're using it's web-publication framework (Git Pages).
@@ -19,15 +19,15 @@ You'll need to get a free github account to submit posts. To do that, just point
 your browser to [https://github.com](https://github.com) and click on "Sign Up" in
 the upper right corner. You'll then be allowed to create an account:
 
-![account-request](images/1-sign-up.png)
+![account-request](/images/1-sign-up.png)
 
-2. Go to the website "repository" at:
+## 2. Go to the website "repository" at:
 
 [https://github.com/westchesterbahai/westchesterbahai.github.io](https://github.com/westchesterbahai/westchesterbahai.github.io)
 
 You'll see a lot of folders and files in here: 
 
-![top-level-view](images/2-top-level.png)
+![top-level-view](/images/2-top-level.png)
 
 Click on the folder into which your announcement is going to go. The folder you put
 it in will depend on the type of event you have:
@@ -57,27 +57,33 @@ see below.
 it, put it into _drafts folder. Once it's been discussed, someone can put it into
 publication by moving it to a different folder.
 
-3. Now, once you're in the folder, click on the "Create new file" button:
-(see ![new-files](3-create-file.png)
+## 3. Now, time to create your post!
 
-4. You're ready to fill in the details! Type in the announcement. Fill it in
-like so:
+Once you're in the folder, click on the "Create new file" button:
+(see ![new-files](/images/3-create-file.png)
 
-![add-file](4-add-event.png)
+## 4. You're ready to fill in the details! 
+
+Type in the announcement, like so:
+
+![add-file](/images/4-add-event.png)
 
 A few important notes when you add your event announcment:
 
 * The first few lines are *very important*. They are used by the website building
-software to lay out and classify your posting. So the first lines must start with this:
+software to lay out and classify your posting. The sample posts shows how its done.
+The first lines **must** start with this:
+
+~~~~
 
     ---
     title: [title of your announcement]
     location: [town or city/village]
-    description: [description that will show up on the "front page"; suggest 10-20 words]
+    description: [8-20 word description for the "front page"]
     times: [days and time]
     ---
 
-Note that the sample post has all of these fields filled out.
+~~~~
 
 * The main body is the "ad copy" that your announcement will have. In addition to saying
 what it is, key things to include are location, contact information, means of contact, and
@@ -100,10 +106,13 @@ an excellent place to put it.
 is puts the file in for review: the website maintainer will then review it, make edits if
 necessary, and complete the posting process.
 
-5. You're done! But now you need a way to edit it. To do that, you'll click on the pencil
-icon:
+You're done! But now you need a way to edit it....
 
-![edit](5-edit-event.png)
+## Editing your post
+
+To do this, you'll click on the pencil icon:
+
+![edit](/images/5-edit-event.png)
 
 This is the same sort of thing; once done editing, you'll "Commit," and the change will go
 in for review.
