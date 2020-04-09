@@ -1,0 +1,28 @@
+---
+layout: default
+permalink: bahai-mtgs
+---
+<div id="container">
+<div id="front-image">
+<img class="feat-image" src="/images-hq/shrine-of-bab.gif" alt="Westchester Baha'is" />
+</div>
+<br/>
+<div id="grid" data-columns class="cols">
+    <!-- Items in the bahai-meeting collection go on this page rather
+       than the top-level page with most other events. This is intended
+       for Baha'i newcomers or those new to the community. Posts should
+       be informational in nature with specific contact information. 
+       Custom artwork not supported. -->
+    {% for post in site.bahai-meeting %}
+    <div class="box" style="background-color:#{{post.color}}">
+      <div class="container">
+         <h4>{{post.title}}</h4>
+         <p>{{post.description}}</p>
+         <div class="action">{{ post.date | date: '%B %d, %Y' }}<a href="{{post.url | prepend: site.baseurl}}"><i class="fa fa-arrow-right" aria-hidden="true"></i></a></div> 
+      </div>   
+    </div>
+   {% endfor %}
+</div>
+</div>
+
+<script src="{{site.baseurl}}/js/salvattore.min.js"></script>
