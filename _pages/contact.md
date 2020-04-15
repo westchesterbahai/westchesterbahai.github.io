@@ -52,7 +52,21 @@ ul.contact-ul {
 
 </style>
 
-This is a placeholder for a "contact us." I'd prefer to direct people to actual activities, but this is immediate. The 1-800-22-UNITE is also a good option.
+This page is currently under construction.
+
+To contact the Baha'i communities in Westchester Count (and elsewhere),
+please contact:
+
+    1-800-22-UNITE
+
+They will direct you to the Baha'i community.
+
+Once this is set up, I'll have a "contact us" page. Most events listed
+have a contact person; rather than contact the general number, just
+go ahead and contact the organizer, who will be happy to tell you about
+the event and anything else you might want to know.
+
+### UNDER CONSTRUCTION
 
 <form id="contact-form" class="form" action="https://getsimpleform.com/messages?form_api_token={{site.api-token}}" method="POST" enctype="multipart/form-data">
         <ul class="contact-ul">

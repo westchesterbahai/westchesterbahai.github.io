@@ -11,7 +11,7 @@ permalink: /links/
 * [Baha'i Reference Library](https://www.bahai.org/library/) - official repository for translated writings of the Baha'i Faith.
 * "Hey, I wanted West Chester. Pennsylvania!" I'm guessing [Main Line Baha'i Community](https://www.mainlinebahais.org/) is probably where you want to start.
 
-![Other Baha'i Websites of Interest](/images/unofficial.jpg)
+![Other Baha'i Websites of Interest](/images/unofficial-links.jpg)
 
 * [Baha'i Teachings](https://bahaiteachings.org/)
 * [Baha'i Blog (podcasts and more!](https://www.bahaiblog.net/)
