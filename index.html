@@ -3,7 +3,7 @@ layout: default
 ---
 <div id="container">
 <div id="front-image">
-<img class="feat-image" src="/images-hq/image-test.jpg" alt="Westchester Baha'is" />
+<img class="feat-image" src="/images-hq/test-background.jpg" style="width:60%" alt="Westchester Baha'is" />
 </div>
 <br/>
 <div id="grid" data-columns class="cols">
@@ -25,34 +25,56 @@ layout: default
    {% endfor %}
    <div class="box" style="background-color:#0f0f0f">
      <img class="feat-image" src={{ "/images/" | prepend: site.baseurl | append: "devotionals.gif" }} alt="Devotionals">
-     <p>Devotional services and prayer meetings; Baha'i, interfaith and
-     otherwise. Open to all.</p>
+     <p>
+     Devotional gatherings are spaces for people from all walks of life to partake of food for their soul. Often held in 
+     people's homes, devotional gatherings are open to anyone to share prayers spoken, sung or shared in other artistic 
+     forms.
+     <ul>
      {% for devotional in site.devotionals %}
-       <p><a href="{{devotional.url | prepend: site.baseurl}}">{{devotional.description}}</a></p>
+     <li><b>{{devotional.location}}</b>&nbsp;<a href="{{devotional.url | prepend: site.baseurl}}">{{devotional.description}}</a>
+     [{{devotional.time}}]</li>
      {% endfor %}
+     </ul>
+     For information about hosting a devotional gathering in your own home, please email westchesteratc@gmail.com.
    </div>
    <div class="box" style="background-color:#717924">
      <img class="feat-image" src={{ "/images/" | prepend: site.baseurl | append: "development.gif" }} alt="Services">
      <p>Service and community Development opportunities sponsored
      by the Baha'i Faith and organizations inspired by the Baha'i
      teachings. Workers wanted.</p>
+     <ul>
      {% for development in site.development %}
-       <p><a href="{{development.url | prepend: site.baseurl}}">{{development.description}}</a></p>
+     <li><b>{{development.location}}</b>&nbsp;<a href="{{development.url | prepend: site.baseurl}}">{{development.description}}</a>
+     [{{development.time}}]</li>
      {% endfor %}
+     </ul>
    </div>
    <div class="box" style="background-color:#e36120">
      <img class="feat-image" src={{ "/images/" | prepend: site.baseurl | append: "childrens-classes.gif" }} alt="Childrens-classes">
-     <p>Classes for children in virtues and values</p>
+     <p>
+     Baha'is believe that children are the most precious treasure a community can possess and thus 
+     place emphasis on their spiritual and moral development. Classes for the spiritual education of children 
+     are organized at the neighborhood level. 
+     </p>
+     <ul>
      {% for classes in site.childrens-class %}
-       <p><a href="{{classes.url | prepend: site.baseurl}}">{{classes.description}}</a></p>
+     <li><b>{{classes.location}}</b>:&nbsp;<a href="{{classes.url | prepend: site.baseurl}}">{{classes.description}}</a>
+	     [{{classes.time}}]</li>
      {% endfor %}
+     </ul>
+     <p>No nearby classes listed? Please email westchesteratc@gmail.com for more information about a 
+     children's class in your neighborhood.</p>
    </div>
    <div class="box" style="background-color:#911411">
      <img class="feat-image" src={{ "/images/" | prepend: site.baseurl | append: "youth-groups.gif" }} alt="Youth-groups">
      <p>Youth and pre-youth activities.</p>
+     <ul>
      {% for group in site.youth-group%}
+     <li><b>{{group.location}}</b>:&nbsp;<a href="{{group.url | prepend: site.baseurl}}">{{group.description}}</a>
+	     [{{group.time}}]</li>
        <p><a href="{{group.url | prepend: site.baseurl}}">{{group.description}}</a></p>
      {% endfor %}
+     </ul>
    </div>
    <div class="box" style="background-color:#717924">
      <img class="feat-image" src={{ "/images/" | prepend: site.baseurl | append: "study-circle.gif" }} alt="Study-circles">
@@ -72,7 +94,7 @@ layout: default
      <a href="bahai-mtgs">
          <img class="feat-image" src={{ "/images/" | prepend: site.baseurl | append: "enrolees.gif" }} alt="Shrine-outline">
      </a>
-     <p><a href="bahai-mtgs">Planning meetings and fellowship for the Baha'i community</a></p>
+     <p><a href="bahai-mtgs">Meetings for the Baha'i community</a></p>
    </div>
 </div>
 </div>
