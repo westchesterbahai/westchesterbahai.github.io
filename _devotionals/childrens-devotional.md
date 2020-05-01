@@ -3,7 +3,7 @@ layout: post
 title:  "Childrens' Devotional Gathering"
 description: Children's Devotional Gathering
 location: Electronic
-time: Most weekday evenings, time varies
+time: 6:30PM - 6:45PM every day
 color: BF360C
 ---
 Short online devotional gathering hosted by O'Toole family for children.

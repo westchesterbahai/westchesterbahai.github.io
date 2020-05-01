@@ -14,9 +14,12 @@ layout: default
         {% endif %}
         {{page.content | markdownify}}
     </article>
+    {% comment %}
+    <!-- let's turn off disqus plug-in until we figure out what we're really doing here -->
             {% if page.categories %}
                 {% include disqus.html %}
             {% else %}
             {% endif %}
+    {% endcomment %}
     </div>
 </div>
