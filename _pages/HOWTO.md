@@ -77,10 +77,11 @@ The first lines **must** start with this:
 ~~~~
 
     ---
-    title: [title of your announcement]
+    layout: posts
+    title: [title of your web page]
     location: [town or city/village]
     description: [8-20 word description for the "front page"]
-    times: [days and time]
+    time: [days and time]
     ---
 
 ~~~~
