@@ -31,7 +31,7 @@ layout: default
      forms.
      <ul>
      {% for devotional in site.devotionals %}
-     <li><b>{{devotional.location}}</b>&nbsp;<a href="{{devotional.url | prepend: site.baseurl}}">{{devotional.description}}</a>
+     <li><b>{{devotional.location}}</b>:&nbsp;<a href="{{devotional.url | prepend: site.baseurl}}">{{devotional.description}}</a>
      [{{devotional.time}}]</li>
      {% endfor %}
      </ul>
@@ -39,13 +39,17 @@ layout: default
    </div>
    <div class="box" style="background-color:#717924">
      <img class="feat-image" src={{ "/images/" | prepend: site.baseurl | append: "development.gif" }} alt="Services">
-     <p>Service and community Development opportunities sponsored
+     <p>Service and community development opportunities sponsored
      by the Baha'i Faith and organizations inspired by the Baha'i
      teachings. Workers wanted.</p>
      <ul>
      {% for development in site.development %}
-     <li><b>{{development.location}}</b>&nbsp;<a href="{{development.url | prepend: site.baseurl}}">{{development.description}}</a>
+       {% if development.exturl %}
+       <li><b><a href="{{development.exturl}}">{{development.title}}</a>:&nbsp;</b>{{development.description}}</li>
+       {% else %}
+       <li><b>{{development.location}}</b>:&nbsp;<a href="{{development.url | prepend: site.baseurl}}">{{development.description}}</a>
      [{{development.time}}]</li>
+       {% endif %}
      {% endfor %}
      </ul>
    </div>
@@ -67,34 +71,41 @@ layout: default
    </div>
    <div class="box" style="background-color:#911411">
      <img class="feat-image" src={{ "/images/" | prepend: site.baseurl | append: "youth-groups.gif" }} alt="Youth-groups">
-     <p>Youth and pre-youth activities.</p>
+     <p>Development, service and social activities for adolescents.</p>
      <ul>
      {% for group in site.youth-group%}
      <li><b>{{group.location}}</b>:&nbsp;<a href="{{group.url | prepend: site.baseurl}}">{{group.description}}</a>
 	     [{{group.time}}]</li>
-       <p><a href="{{group.url | prepend: site.baseurl}}">{{group.description}}</a></p>
      {% endfor %}
      </ul>
+     <p>Youth groups are forming! Please contact westchesteratc@gmail.com for information.</p>
    </div>
    <div class="box" style="background-color:#717924">
      <img class="feat-image" src={{ "/images/" | prepend: site.baseurl | append: "study-circle.gif" }} alt="Study-circles">
-     <p>Study circles in the Baha'i Faith and other topics.</p>
+     <p>Study circles on the Baha'i Faith and other topics.</p>
+     <ul>
      {% for study in site.study-circle%}
-       <p><a href="{{study.url | prepend: site.baseurl}}">{{study.description}}</a></p>
+     <li><b>{{study.location}}</b>:&nbsp;<a href="{{study.url | prepend: site.baseurl}}">{{study.description}}</a>
+	     [{{study.time}}]</li>
      {% endfor %}
+     </ul>
    </div>
    <div class="box" style="background-color:#0f0f0f">
      <img class="feat-image" src={{ "/images/" | prepend: site.baseurl | append: "special-events.gif" }} alt="Special-Events">
      <p>Other events open to the public.</p>
+     <ul>
      {% for event in site.special-events %}
-       <p><a href="{{events.url | prepend: site.baseurl}}">{{event.description}}</a></p>
+     <li><b>{{event.location}}</b>:&nbsp;<a href="{{event.url | prepend: site.baseurl}}">{{event.description}}</a>
+	     [{{event.time}}]</li>
      {% endfor %}
+     </ul>
    </div>
    <div class="box" style="background-color:#911411">
      <a href="bahai-mtgs">
          <img class="feat-image" src={{ "/images/" | prepend: site.baseurl | append: "enrolees.gif" }} alt="Shrine-outline">
      </a>
-     <p><a href="bahai-mtgs">Meetings for the Baha'i community</a></p>
+     <p><a href="bahai-mtgs">Click here for information on meetings for the Baha'i community:</a>&nbsp;Feasts, planning meetings
+     and other internal events.</p>
    </div>
 </div>
 </div>
