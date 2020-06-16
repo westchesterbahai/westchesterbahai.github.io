@@ -27,6 +27,8 @@ compress_html:
 highlight: rouge
 
 collections:
+  featured:
+    output: true
   devotionals:
     output: true
   development:

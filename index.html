@@ -7,21 +7,20 @@ layout: default
        They are not placed in the standard "collection" cards, where
        most events will go. This will give one little box per post, each
        with its own optional image, color, title, etc. -->
-  <!--    {% for y in site.devotionals %}
-  <div class="box" style="background-color:#{{post.color}}">
-        <a href="{{post.exturl}}">
-        <img class="feat-image" src={{ "/images/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}">
+   {% for feature in site.featured %}
+   <div class="box" style="background-color:#{{feature.color}}">
+        <a href="{{feature.exturl}}">
+        <img class="feat-image" src={{ "/images/" | prepend: site.baseurl | append: feature.img }} alt="{{feature.title}}">
         </a>
         <div class="container">
-        <em>{{post.title}}</em>
-        <p>{{post.description}}</p>
-        <div class="action">{{ post.date | date: '%B %d, %Y' }}<a href="{{post.exturl}}"><i class="fa fa-arrow-right" aria-hidden="true"></i></a></div> 
+        <p>{{feature.description}}</p>
+        <div class="action">{{ feature.date | date: '%B %d, %Y' }}<a href="{{feature.exturl}}"><i class="fa fa-arrow-right" aria-hidden="true"></i></a></div> 
         </div>   
     </div>
-    <p>{{y.title}}</p>
-   {% endfor %}  -->
+   {% endfor %}
    <div class="box" style="background-color:#0f0f0f">
      <img class="feat-image" src={{ "/images/" | prepend: site.baseurl | append: "devotionals.gif" }} alt="Devotionals">
+     <div class="container">
      <p>
      Devotional gatherings are spaces for people from all walks of life to partake of food for their soul. Often held in 
      people's homes, devotional gatherings are open to anyone to share prayers spoken, sung or shared in other artistic 
@@ -33,9 +32,11 @@ layout: default
      {% endfor %}
      </ul>
      For information about hosting a devotional gathering in your own home, please email westchesteratc@gmail.com.
+     </div>
    </div>
    <div class="box" style="background-color:#717924">
      <img class="feat-image" src={{ "/images/" | prepend: site.baseurl | append: "development.gif" }} alt="Services">
+     <div class="container">
      <p>Service and community development opportunities sponsored
      by the Baha'i Faith and organizations inspired by the Baha'i
      teachings. Workers wanted.</p>
@@ -49,9 +50,11 @@ layout: default
        {% endif %}
      {% endfor %}
      </ul>
+     </div>
    </div>
    <div class="box" style="background-color:#e36120">
      <img class="feat-image" src={{ "/images/" | prepend: site.baseurl | append: "childrens-classes.gif" }} alt="Childrens-classes">
+     <div class="container">
      <p>
      Baha'is believe that children are the most precious treasure a community can possess and thus 
      place emphasis on their spiritual and moral development. Classes for the spiritual education of children 
@@ -65,9 +68,11 @@ layout: default
      </ul>
      <p>No nearby classes listed? Please email westchesteratc@gmail.com for more information about a 
      children's class in your neighborhood.</p>
+     </div>
    </div>
    <div class="box" style="background-color:#911411">
      <img class="feat-image" src={{ "/images/" | prepend: site.baseurl | append: "youth-groups.gif" }} alt="Youth-groups">
+     <div class="container">
      <p>Development, service and social activities for adolescents.</p>
      <ul>
      {% for group in site.youth-group%}
@@ -76,9 +81,11 @@ layout: default
      {% endfor %}
      </ul>
      <p>Youth groups are forming! Please contact westchesteratc@gmail.com for information.</p>
+     </div>
    </div>
    <div class="box" style="background-color:#717924">
      <img class="feat-image" src={{ "/images/" | prepend: site.baseurl | append: "study-circle.gif" }} alt="Study-circles">
+     <div class="container">
      <p>Study circles on the Baha'i Faith and other topics.</p>
      <ul>
      {% for study in site.study-circle%}
@@ -86,9 +93,11 @@ layout: default
 	     [{{study.time}}]</li>
      {% endfor %}
      </ul>
+     </div>
    </div>
    <div class="box" style="background-color:#0f0f0f">
      <img class="feat-image" src={{ "/images/" | prepend: site.baseurl | append: "special-events.gif" }} alt="Special-Events">
+     <div class="container">
      <p>Other events open to the public.</p>
      <ul>
      {% for event in site.special-events %}
@@ -96,13 +105,16 @@ layout: default
 	     [{{event.time}}]</li>
      {% endfor %}
      </ul>
+     </div>
    </div>
    <div class="box" style="background-color:#911411">
      <a href="bahai-mtgs">
          <img class="feat-image" src={{ "/images/" | prepend: site.baseurl | append: "enrolees.gif" }} alt="Shrine-outline">
+     <div class="container">
      </a>
      <p><a href="bahai-mtgs">Click here for information on meetings for the Baha'i community:</a>&nbsp;Feasts, planning meetings
      and other internal events.</p>
+     </div>
    </div>
 </div>
 </div>
