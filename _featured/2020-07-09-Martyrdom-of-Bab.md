@@ -13,7 +13,7 @@ days in the Baha'i calendar. The Zoom link is:
 
 <https://us02web.zoom.us/j/81265254763?pwd=cWdwWUJRbjZHQWticVB2akNnbmluZz09>
 
-Contact atc@westchesterbahais.org for password.
+Contact <atc@westchesterbahais.org> for password.
 
 As with all Baha'i Holy Days, this commemoration is open to all respectful
 members of the public. Please request the password at the above address 

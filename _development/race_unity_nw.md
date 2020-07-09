@@ -11,4 +11,4 @@ what anti-racism is and how to embrace the oneness of humanity. All
 RANWP meetings are open to the public.
 
 RANWP meetings are temporarily online-only.
-Please contact atc@westchesterbahais.org for the Zoom link and password.
+Please contact <atc@westchesterbahais.org> for the Zoom link and password.
