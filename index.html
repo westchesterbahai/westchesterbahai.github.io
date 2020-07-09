@@ -18,12 +18,12 @@ layout: default
         <div class="action">{{ feature.date | date: '%B %d, %Y' }}<a href="{{feature.exturl}}"><i class="fa fa-arrow-right" aria-hidden="true"></i></a></div> 
         </div>   
       {% else %}
-        <a href="{{feature.location}}">
+        <a href="{{feature.url | prepend: site.baseurl}}">
         <img class="feat-image" src={{ "/images/" | prepend: site.baseurl | append: feature.img }} alt="{{feature.title}}">
         </a>
         <div class="container">
         <p>{{feature.description}}</p>
-        <div class="action">{{ feature.date | date: '%B %d, %Y' }}<a href="{{feature.location}}"><i class="fa fa-arrow-right" aria-hidden="true"></i></a></div> 
+        <div class="action">{{ feature.date | date: '%B %d, %Y' }}<a href="{{feature.url | prepend: site.baseurl}}"><i class="fa fa-arrow-right" aria-hidden="true"></i></a></div> 
         </div>   
       {% endif %}
     </div>

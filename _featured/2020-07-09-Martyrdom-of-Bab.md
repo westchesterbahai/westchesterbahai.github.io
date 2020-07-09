@@ -1,11 +1,11 @@
 ---
-title: "Martyrdom of The Bab"
 layout: post
+title: "Martyrdom of The Bab"
 location: Online
 description: UPCOMING HOLY DAY COMMEMORATION - Online commemoration of The Martyrdom of the Bab.
 color: 717924
 img: Bab-room.jpg
-time: July 9, 12:30 PM.
+time: "July 9, 12:30 PM."
 ---
 The Westchester Baha'i Community's commemoration of the Martyrdom of the Bab
 is online this year. The Martyrdom of the Bab is one of the holy
