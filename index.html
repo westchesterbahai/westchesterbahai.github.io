@@ -9,6 +9,7 @@ layout: default
        with its own optional image, color, title, etc. -->
    {% for feature in site.featured %}
    <div class="box" style="background-color:#{{feature.color}}">
+      {% if feature.exturl %}
         <a href="{{feature.exturl}}">
         <img class="feat-image" src={{ "/images/" | prepend: site.baseurl | append: feature.img }} alt="{{feature.title}}">
         </a>
@@ -16,6 +17,15 @@ layout: default
         <p>{{feature.description}}</p>
         <div class="action">{{ feature.date | date: '%B %d, %Y' }}<a href="{{feature.exturl}}"><i class="fa fa-arrow-right" aria-hidden="true"></i></a></div> 
         </div>   
+      {% else %}
+        <a href="{{feature.location}}">
+        <img class="feat-image" src={{ "/images/" | prepend: site.baseurl | append: feature.img }} alt="{{feature.title}}">
+        </a>
+        <div class="container">
+        <p>{{feature.description}}</p>
+        <div class="action">{{ feature.date | date: '%B %d, %Y' }}<a href="{{feature.location}}"><i class="fa fa-arrow-right" aria-hidden="true"></i></a></div> 
+        </div>   
+      {% endif %}
     </div>
    {% endfor %}
    <div class="box" style="background-color:#0f0f0f">
