@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Art Therapy and Spirituality"
-description: "Art Therapy and Spirituality: a peaceful opportunity to pray, read writings on the arts, na d feel the healing and calming power of artmaking."
+description: "Art Therapy and Spirituality: a peaceful opportunity to pray, read writings on the arts, and feel the healing and calming power of artmaking."
 location: Electronic
 time: "Sunday, Aug. 2 4:30pm - 5:15pm"
 color: BF360C
