@@ -7,5 +7,5 @@ time: Thursdays, 7:00PM-7:30PM
 color: BF360C
 ---
 Larchomond community devotional gathering, hosted by the O'Toole family.
-Currently online. Conact westchesteratc@gmail.com for login information on how
+Currently online. Contact <atc@westchesterbahais.org> for login information on how
 to join us.
