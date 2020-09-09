@@ -2,8 +2,8 @@
 layout: post
 title:  "Walk-Bike-Pray on the Bronx River Parkway"
 description: "Walk / Bike / Pray on the Bronx River Parkway"
-location: Larchmont (currently electronic)
-time: Sunday Aug. 23, 9:00AM
+location: Scarsdale
+time: "Alternate Sundays, 9:00AM. Next one Sept. 20"
 color: BF360C
 ---
 Public devotional, followed by exercise on the Bronx River Parkway, which is closed
