@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "T Livingsto devotionals"
-description: T Livingston Biweekly Devotionals
+description: Wednesday Biweekly Devotionals
 location: Electronic (Zoom)
 time: Alternating Wednesdays 6:30-7:30 PM, Sep. 9
 color: BF360C
