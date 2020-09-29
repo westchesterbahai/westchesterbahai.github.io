@@ -1,13 +1,12 @@
 ---
-title: Mamaroneck Children's Classes
+title: Westchester Children's Class
 layout: post
-location: Mamaroneck (currently electronic)
-description: Childrens classes for ages 5-14
-time: Sundays 10:00am
+location: Electronic
+description: Childrens classes for grades K-5
+time: Sundays 10:30am
 ---
-Children's classes are reconvening most Sundays over Zoom, as follows:
-* 10:00am - Devotionals, open to all young ones
-* 10:30am - Remote classes for grades K-4.
+Children's classes are reconvening most Sundays mornings over Zoom.
+This year's class will cater to kindergarten through 4th grade.
 Please contact <atc@westchesterbahais.com> for Zoom link to join us.
 
 For older children, we are planning youth activities; email
