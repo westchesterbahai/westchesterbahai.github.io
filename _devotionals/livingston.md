@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "T Livingsto devotionals"
+title:  "Wednesday Biweekly Devotionals"
 description: Wednesday Biweekly Devotionals
 location: Electronic (Zoom)
-time: Alternating Wednesdays 6:30-7:30 PM, Sep. 9
+time: Alternating Wednesdays 7:00pm - 8:00pm. Next date Oct. 21.
 color: BF360C
 ---
 Biweekly devotionals hosted on Zoom Please contact <atc@westchesterbahais.org>
