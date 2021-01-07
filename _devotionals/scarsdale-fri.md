@@ -3,7 +3,7 @@ layout: post
 title:  "Friday Night Zoom Devotional"
 description: Joint Zoom Devotional on Friday Evenings
 location: Currently Electronic
-time: Friday 8:00-8:30pm. Next meeting Nov. 20
+time: Every Friday 8:00-8:30pm.
 color: BF360C
 ---
 Joint Zoom devotional hosted by the Mirafzali-Porooshasp families.
