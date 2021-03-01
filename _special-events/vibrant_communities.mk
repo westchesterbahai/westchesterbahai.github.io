@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Interfaith Devotional & Talk Series"
-description: "Interfaith Talk Series - Toward a Just Society: Reimagining Human Nature"
+description: "Interfaith Talk Series"
 location: "Electronic (Zoom)"
 exturl: http://www.westchester-cvc.org/talk-series.html
-time: "Monthly. Next event Tuesday Feb. 21 4:30PM"
+time: "Monthly. March event and topic TBD. Check link for updates."
 color: BF360C
 ---
 <p><a href="http://www.westchester-cvc.org/talk-series.html">Redirect to Westchester-CVC Website</a></p>
