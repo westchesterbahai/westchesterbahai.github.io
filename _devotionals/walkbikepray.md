@@ -6,8 +6,8 @@ location: Scarsdale
 time: "Alternate Sundays, 9:00AM"
 color: BF360C
 ---
-Public devotional. No longer doing Bronx River Parkway exercise - too cold
-for that! - but join us every other Sunday for devotionals,
+Public devotional. No longer doing Bronx River Parkway exercise - not yet
+warm enough for that! - but join us every other Sunday for devotionals,
 
 For confirmation of the next dates and information on how to join us,
 email <atc@westchesterbahais.org>.
