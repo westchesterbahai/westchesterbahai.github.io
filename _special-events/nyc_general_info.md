@@ -3,7 +3,7 @@ layout: post
 title:  "Firesides: Discussions on the Baha'i Faith"
 description: "Firesides: Discussions on the Baha'i Faith"
 location: Electronic
-time: "Monday 6:30 PM from Feb. 8 - March 15"
+time: "Mondays 6:30 PM ongoing through April"
 color: BF360C
 ---
 Firesides are conversations intended to introduce you to the Baha'i
@@ -13,10 +13,7 @@ to share your thoughts, ask questions and learn about the world's most
 diverse and second most widespread religion.
 Email <admin@westchesterbahais.org> for Zoom link and password.
 
-* 02/08 - "Why is harmony of science and religion important?"
-* 02/15 - "How would a universal compulsory education change the world?"
-* 02/22 - "What could the elimination of extremes of wealth and poverty look like?"
-* 03/01 - "What is the meaning of love to a Bahá’í?"
-* 03/08 - "Why is the independent investigation of truth a core principle of the Bahá’í Faith?
-* 03/15 - "Interfaith Devotional." _Please bring a spiritual writing, poem or prayer to share_
-
+* 04/05 - "What is the significance of the festival of Ridván?"
+* 04/12 - "Is it possible to eliminate the extremes of wealth and poverty?" 
+* 04/19 - "Why is the equality of women and men central to the Bahá'i Faith?"
+* 04/26 - "An Interfaith Devotional Gathering"

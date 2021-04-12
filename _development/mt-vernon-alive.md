@@ -11,5 +11,5 @@ This weekly event is a series of community conversations" and open to the public
 meeting people, making connections and discuss activities and study circles leading to postive
 social action.
 
-Register at the "Mount Vernon Alive!" website. Contact <atc@westchesterbahais.org> for URL
-and details.
+Register at the ["Mount Vernon Alive!"](https://francishayden.com) website. 
+Contact <atc@westchesterbahais.org> for URL and details.
