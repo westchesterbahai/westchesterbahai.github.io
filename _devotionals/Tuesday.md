@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Wednesday Zoom Devotional"
+title:  "Tuesday Zoom Devotional"
 description: Online devotionals
 location: Electronic
-time: "Wednesdays 8:00PM-8:30PM"
+time: "Tuesdays 9:00PM"
 color: BF360C
 ---
 All Faiths Comunities are Welcome, Bring your Family, Friends, Neighbors and Colleagues. 
