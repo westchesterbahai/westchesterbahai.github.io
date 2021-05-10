@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "(No)-Walk-(No)-Bike-Pray on the Bronx River Parkway"
-description: "(No) Walk / (No) Bike / Pray on the Bronx River Parkway"
+title:  "Pray-Walk-Serve on the Bronx River Parkway"
+description: "Pray / Walk / Serve on the Bronx River Parkway"
 location: Scarsdale
-time: "Alternate Sundays, 9:00AM"
+time: "Alternate Sundays, 9:00AM sharp. Next event May 9 and 22"
 color: BF360C
 ---
-Public devotional. No longer doing Bronx River Parkway exercise - not yet
-warm enough for that! - but join us every other Sunday for devotionals,
+Public devotional, followed by walk and cleanup service along the
+Bronx River Parkway. Meet 9:00AM sharp at the Scarsdale southbound
+train station (by the Dunkin Donuts). 
 
-For confirmation of the next dates and information on how to join us,
-email <atc@westchesterbahais.org>.
+For further questions, email <atc@westchesterbahais.org>.

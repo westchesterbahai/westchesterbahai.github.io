@@ -3,7 +3,7 @@ layout: post
 title:  "Firesides: Discussions on the Baha'i Faith"
 description: "Firesides: Discussions on the Baha'i Faith"
 location: Electronic
-time: "Mondays 6:30 PM ongoing through April"
+time: "Mondays 6:30 PM ongoing through May"
 color: BF360C
 ---
 Firesides are conversations intended to introduce you to the Baha'i
@@ -13,7 +13,9 @@ to share your thoughts, ask questions and learn about the world's most
 diverse and second most widespread religion.
 Email <admin@westchesterbahais.org> for Zoom link and password.
 
-* 04/05 - "What is the significance of the festival of Ridván?"
-* 04/12 - "Is it possible to eliminate the extremes of wealth and poverty?" 
-* 04/19 - "Why is the equality of women and men central to the Bahá'i Faith?"
-* 04/26 - "An Interfaith Devotional Gathering"
+* 05/03 - "What is the festival of Ridvan?"
+* 05/10 - "What does it mean to be a Baha'i?"
+* 05/17 - "The importance of service to Baha'is" 
+* 05/24 - "Exploring the mystical writings of Baha'u'llah"
+* 05/31 - "The role of art and technology in the Baha'i Faith"
+* 06/07 - "Interfaith Devotional Gathering."
