@@ -13,4 +13,7 @@ to share your thoughts, ask questions and learn about the world's most
 diverse and second most widespread religion.
 Email <admin@westchesterbahais.org> for Zoom link and password.
 
-* 06/21 - "The importance of the independent investigation of the truth"
+* June 28 - "Baha'i perspectives on life and death."
+* July 5 - "The revelation of the Báb."
+* July 12 - "Baha'i beliefs on extraterrestrial life."
+* July 19 - Interfaith devotional gathering
