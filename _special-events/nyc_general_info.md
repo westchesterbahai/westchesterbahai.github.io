@@ -13,7 +13,7 @@ to share your thoughts, ask questions and learn about the world's most
 diverse and second most widespread religion.
 Email <admin@westchesterbahais.org> for Zoom link and password.
 
-* June 28 - "Baha'i perspectives on life and death."
-* July 5 - "The revelation of the Báb."
-* July 12 - "Baha'i beliefs on extraterrestrial life."
-* July 19 - Interfaith devotional gathering
+* July 19 - Abdu'l-Baha on Race Unity
+* July 26 - Memorial Devotional for Mrs. Mahin Tirandaz; Life after Death
+* August 2 - Abdu'l-Baha in New York
+
