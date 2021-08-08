@@ -3,7 +3,7 @@ layout: post
 title:  "Pray-Walk-Serve on the Bronx River Parkway"
 description: "Pray / Walk / Serve on the Bronx River Parkway"
 location: Scarsdale
-time: "Alternate Sundays, 9:00AM sharp. Next event July 25"
+time: "Alternate Sundays, 9:00AM sharp. Next event August 22"
 color: BF360C
 ---
 Public devotional, followed by walk and cleanup service along the
