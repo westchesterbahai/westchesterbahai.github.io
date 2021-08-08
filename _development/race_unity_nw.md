@@ -3,7 +3,7 @@ layout: post
 title: RANWP 
 description: Race Amity of Northern Westchester and Putnam (RANWP)
 location: John C. Hart Memorial Library
-time: "No July meeting. Next meeting Sun. Aug. 8." 
+time: "No July meeting. Next meeting TBD" 
 color: BF360C
 ---
 Race Amity of Northern Westchester and Putnam will continue their series of discussions,
