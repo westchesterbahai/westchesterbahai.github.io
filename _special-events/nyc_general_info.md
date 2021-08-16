@@ -14,4 +14,5 @@ diverse and second most widespread religion.
 Email <admin@westchesterbahais.org> for Zoom link and password.
 
 * August 9 - Sharing Our Spiritual Journeys
+* August 16 - The Will and Testamant of Baha'u'llah
 
