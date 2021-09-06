@@ -3,7 +3,7 @@ layout: post
 title:  "Firesides: Discussions on the Baha'i Faith"
 description: "Firesides: Discussions on the Baha'i Faith"
 location: Electronic
-time: "Mondays 6:30 PM ongoing through May"
+time: "Mondays 6:30 PM ongoing"
 color: BF360C
 ---
 Firesides are conversations intended to introduce you to the Baha'i
@@ -13,6 +13,6 @@ to share your thoughts, ask questions and learn about the world's most
 diverse and second most widespread religion.
 Email <admin@westchesterbahais.org> for Zoom link and password.
 
-* August 9 - Sharing Our Spiritual Journeys
-* August 16 - The Will and Testamant of Baha'u'llah
+* Sept 13 - The power of prayer
+* Sept 20 - Divine virtues
 
