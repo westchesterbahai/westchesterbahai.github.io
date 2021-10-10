@@ -13,6 +13,5 @@ to share your thoughts, ask questions and learn about the world's most
 diverse and second most widespread religion.
 Email <admin@westchesterbahais.org> for Zoom link and password.
 
-* Sept 13 - The power of prayer
-* Sept 20 - Divine virtues
-
+* October 4 - Stories of Abdu'l-Baha
+* October 11 - Stories About the Baha'i Faith
