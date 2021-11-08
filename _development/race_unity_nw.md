@@ -2,24 +2,17 @@
 layout: post
 title: RANWP 
 description: Race Amity of Northern Westchester and Putnam (RANWP)
-location: Next Event: Yorktown Festival & Street Fair (normally John C. Hart Memorial Library)
-time: "October 10, 11:00am-5:00pm" 
+location: Somers Library
+time: "November 7, 2:00pm" 
 color: BF360C
 ---
 Dear friends, 
- 
-Race Amity of Northern Westchester & Putnam is pleased to be sharing a booth with 
-Yorktown for Justice at the Yorktown Festival & Street Fair on Sunday, October 10th.  
-This event will be in lieu of our regular monthly meeting.  We will be there from 11 - 5.
-<https://yorktownchamber.org/festival/>
 
+Our next Zoom meeting, presented jointly with Somers Library and the Friends of the Somers 
+Library, will November 7th at 2:00.  We are very pleased to welcome our guest, author 
+ or on the attached flyer. Read about her at <https://www.nationalbook.org/people/nicole-eustace/>.
  
-As it will be Indigenous Peoples Day weekend, we are particularly proud to cosponsor 
-the Thunderbird American Indian Dancers!  They will perform on the main stage 
-at 11:00 and will continue by our booth.
-<https://thunderbirdamericanindiandancers.wordpress.com/>
+Her book _Covered with Night: A Story of Murder and Indigenous Justice in Early America_ is 
+a finalist for the prestigious National Book Awards.  
 
-We hope to be able to stream the performance.
- 
-More details will be sent as the date approaches.  We hope to see many of you there!
- 
+Contact <atc@westchesterbaihs.org> for zoom details. 
