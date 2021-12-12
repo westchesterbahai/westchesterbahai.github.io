@@ -13,4 +13,5 @@ to share your thoughts, ask questions and learn about the world's most
 diverse and second most widespread religion.
 Email <admin@westchesterbahais.org> for Zoom link and password.
 
-* November 29 - Abdu'l-Baha's _Secret of Divine Civiliation_
+* December 13 - TBA 
+* December 20 - TBA 
