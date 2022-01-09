@@ -12,6 +12,3 @@ Each thought-provoking conversation will provide you with an opportunity
 to share your thoughts, ask questions and learn about the world's most 
 diverse and second most widespread religion.
 Email <admin@westchesterbahais.org> for Zoom link and password.
-
-* December 13 - TBA 
-* December 20 - TBA 
