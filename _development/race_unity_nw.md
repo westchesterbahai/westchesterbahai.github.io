@@ -3,15 +3,13 @@ layout: post
 title: RANWP 
 description: Race Amity of Northern Westchester and Putnam (RANWP)
 location: Zoom call (normally Somers Library)
-time: Sunday, April 10 2:0pm
+time: Sunday, May 22, 2:00PM
 color: BF360C
 ---
 
-In honor of Fair Housing Month, we are very happy to have Tejash Sanchala, Esq., 
-Executive Director and Joshua Levin,Esq., Fair Housing Director, of the Westchester 
-County Human Rights Commission present to us on Fair Housing & More.
+While we usually meet on the second Sunday, we have moved our May meeting to Sunday, the 
+22nd, to avoid conflict with Mother's Day.  More information coming soon!
  
-Read more about the Commission here: <https://humanrights.westchestergov.com/>
-
-We will send out the Zoom link the day before.
-Contact <atc@westchesterbaihs.org> for zoom details. 
+Also, put June 12th on your calendar for our annual Race Amity Day celebration!  
+ 
+Looking forward to seeing you soon! Contact <atc@westchesterbaihs.org> for zoom details. 
