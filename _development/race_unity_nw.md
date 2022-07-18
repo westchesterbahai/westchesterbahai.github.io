@@ -7,7 +7,6 @@ time: Normally second Sunday of the Month 2:00PM
 color: BF360C
 ---
 
-Hope you enjoyed the June 12th Race Amity Day celebration! We'll be back in August for
-our next meeting.
- 
+The Race Amity group of Northern Westchester and Putnam has been operating
+online. Regular meetings are usually 2:00PM the second Sunday of every month.
 Looking forward to seeing you soon! Contact <atc@westchesterbaihs.org> for zoom details. 
