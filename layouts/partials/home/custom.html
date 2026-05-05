@@ -1,0 +1,47 @@
+{{ $sections := sort (where site.Sections "Params.showOnHomepage" true) "Params.weight" }}
+
+<section class="wbc-homepage">
+  <div class="wbc-grid">
+    {{ range $sections }}
+      {{ $color := .Params.color | default "333333" }}
+      <div class="wbc-card" style="background-color: #{{ $color }}">
+        {{ with .Params.image }}
+          <div class="wbc-card-img">
+            <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
+          </div>
+        {{ end }}
+        <div class="wbc-card-body">
+          <h2 class="wbc-card-title">
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+          </h2>
+          {{ with .Params.summary }}
+            <p class="wbc-card-summary">{{ . }}</p>
+          {{ end }}
+          {{ if .Pages }}
+            <ul class="wbc-card-items">
+              {{ range .Pages }}
+                <li>
+                  {{ with .Params.location }}<strong>{{ . }}</strong>:&nbsp;{{ end -}}
+                  <a href="{{ .Permalink }}">{{ .Params.description | default .Title }}</a>
+                  {{- with .Params.time }}&nbsp;[{{ . }}]{{ end }}
+                </li>
+              {{ end }}
+            </ul>
+          {{ else }}
+            <a href="{{ .Permalink }}" class="wbc-learn-more">Learn more →</a>
+          {{ end }}
+          {{ with .Params.cta }}
+            <p class="wbc-card-cta">{{ . | markdownify }}</p>
+          {{ end }}
+        </div>
+      </div>
+    {{ end }}
+  </div>
+
+  <div class="wbc-ext-links">
+    <a href="https://www.bahai.us" class="wbc-ext-link">Baha'is of the US</a>
+    <a href="https://www.bahai.org" class="wbc-ext-link">Baha'i World Centre</a>
+    <a href="https://bahainyc.org" class="wbc-ext-link">Baha'is of NYC</a>
+    <a href="https://wilmetteinstitute.org/" class="wbc-ext-link">Wilmette Institute</a>
+  </div>
+</section>

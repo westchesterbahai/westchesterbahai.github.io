@@ -1,0 +1,135 @@
+/* Homepage section grid */
+.wbc-homepage {
+  margin-top: 1.5rem;
+}
+
+.wbc-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.25rem;
+}
+
+.wbc-card {
+  border-radius: 0.75rem;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+}
+
+.wbc-card-img {
+  overflow: hidden;
+  max-height: 140px;
+}
+
+.wbc-card-img img {
+  width: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.wbc-card-body {
+  padding: 1rem 1.1rem 1.1rem;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  color: #f5f5f5;
+}
+
+.wbc-card-title {
+  font-size: 1.1rem;
+  font-weight: 700;
+  margin: 0 0 0.5rem;
+  border: none;
+  padding: 0;
+}
+
+.wbc-card-title a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.wbc-card-title a:hover {
+  opacity: 0.85;
+}
+
+.wbc-card-summary {
+  font-size: 0.85rem;
+  opacity: 0.9;
+  margin: 0 0 0.6rem;
+  line-height: 1.5;
+}
+
+.wbc-card-items {
+  list-style: none;
+  margin: 0 0 0.6rem;
+  padding: 0;
+  font-size: 0.85rem;
+}
+
+.wbc-card-items li {
+  margin-bottom: 0.3rem;
+}
+
+.wbc-card-items a {
+  color: #fde68a;
+  text-decoration: none;
+}
+
+.wbc-card-items a:hover {
+  text-decoration: underline;
+}
+
+.wbc-learn-more {
+  color: #fde68a;
+  font-size: 0.85rem;
+  text-decoration: none;
+  margin-top: auto;
+}
+
+.wbc-learn-more:hover {
+  text-decoration: underline;
+}
+
+.wbc-card-cta {
+  font-size: 0.78rem;
+  opacity: 0.8;
+  margin: 0.6rem 0 0;
+  padding-top: 0.6rem;
+  border-top: 1px solid rgba(255,255,255,0.2);
+  line-height: 1.4;
+}
+
+.wbc-card-cta a {
+  color: #fde68a;
+}
+
+/* External links row */
+.wbc-ext-links {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 0.75rem;
+  margin-top: 1.5rem;
+}
+
+.wbc-ext-link {
+  background-color: rgba(0,0,0,0.15);
+  border: 1px solid rgba(0,0,0,0.2);
+  color: inherit;
+  text-align: center;
+  padding: 0.6rem 0.8rem;
+  border-radius: 0.5rem;
+  font-size: 0.85rem;
+  font-weight: 500;
+  text-decoration: none;
+  transition: background-color 0.15s;
+}
+
+.wbc-ext-link:hover {
+  background-color: rgba(0,0,0,0.25);
+}
+
+/* Dark mode adjustments */
+.dark .wbc-ext-link {
+  border-color: rgba(255,255,255,0.1);
+}
